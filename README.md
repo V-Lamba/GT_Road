@@ -3,7 +3,7 @@ A 2D Car Racing game developed using XCode.
 
 Graphic libraries like OpenGL and GLUT are required to run main.cpp
 
-Introduction to Project
+Introduction to Project :
 The game's objective is to navigate your car through three lanes and obstacles i.e. another car is running opposite us. The main goal of the player is to maximize their score and pass as many levels as possible. The game will be displayed in a window using OpenGL graphics, and the player will control the car using keyboard arrow keys.
 
 Here are some of the main components of the game:
